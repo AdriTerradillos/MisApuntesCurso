@@ -1,0 +1,644 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MainCalculo",
+            "request": "launch",
+            "mainClass": "entidad.Calculo.MainCalculo",
+            "projectName": "02_JavaDoc"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Ejercicios._01_Clases.Solucion.primerosejercicios.Main",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "UsuarioBiblioteca",
+            "request": "launch",
+            "mainClass": "Ejercicios._01_Clases.ejerciciosrelacionesvisibilidad.principal.UsuarioBiblioteca",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "_01_MainBasico",
+            "request": "launch",
+            "mainClass": "_01_Clases._01_Basico._01_MainBasico",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "_02_MainReferencias",
+            "request": "launch",
+            "mainClass": "_01_Clases._01_Basico._02_MainReferencias",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "_01_MainConstructores",
+            "request": "launch",
+            "mainClass": "_01_Clases._02_Constructores._01_MainConstructores",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "_01_MainMetodos",
+            "request": "launch",
+            "mainClass": "_01_Clases._03_Metodos._01_MainMetodos",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "_01_MainEclipseAyuda",
+            "request": "launch",
+            "mainClass": "_01_Clases._04_EclipseAyuda._01_MainEclipseAyuda",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "_01_MainRestauranteArrays",
+            "request": "launch",
+            "mainClass": "_01_Clases._05_Arrays._01_MainRestauranteArrays",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "MainCicloVida",
+            "request": "launch",
+            "mainClass": "_01_Clases._06_ClicoVida.MainCicloVida",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "_01_MainRelaciones",
+            "request": "launch",
+            "mainClass": "_01_Clases._07_Relaciones._01_MainRelaciones",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "_01_Clases._07_Relaciones.ejemplo.Main",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "MainVisibilidad1",
+            "request": "launch",
+            "mainClass": "_01_Clases._08_visibilidades.MainVisibilidad1",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "MainVisibilidad2",
+            "request": "launch",
+            "mainClass": "_01_Clases._08_visibilidades.otropaquete.MainVisibilidad2",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "MainRelaciones",
+            "request": "launch",
+            "mainClass": "_01_Clases._08_visibilidades.relaciones.MainRelaciones",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "MainEnumerados",
+            "request": "launch",
+            "mainClass": "_01_Clases._09_enumerados.MainEnumerados",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "_01_MainEstaticos",
+            "request": "launch",
+            "mainClass": "_01_Clases._10_estaticos._01_MainEstaticos",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "_02_MainEstaticos",
+            "request": "launch",
+            "mainClass": "_01_Clases._10_estaticos._02_MainEstaticos",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "MainInstituto",
+            "request": "launch",
+            "mainClass": "_02_herencias._01_basico.MainInstituto",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "MainVehiculos",
+            "request": "launch",
+            "mainClass": "_02_herencias._02_basico.MainVehiculos",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioBase",
+            "request": "launch",
+            "mainClass": "_02_herencias._02_basico.ejerciciobase.EjercicioBase",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "MainEmpleados",
+            "request": "launch",
+            "mainClass": "_02_herencias._02_basico.ejerciciobase.MainEmpleados",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "MainObject",
+            "request": "launch",
+            "mainClass": "_02_herencias._04_object.MainObject",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "MainCasting",
+            "request": "launch",
+            "mainClass": "_02_herencias._05_casting.MainCasting",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "MainAbstracciones",
+            "request": "launch",
+            "mainClass": "_02_herencias._06_abstracciones.MainAbstracciones",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "MainInterface",
+            "request": "launch",
+            "mainClass": "_03_interfaces._01_basico.MainInterface",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "MainImpresora",
+            "request": "launch",
+            "mainClass": "_03_interfaces._02_ejemploimprimir.MainImpresora",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "MainFabricaImprimibles",
+            "request": "launch",
+            "mainClass": "_03_interfaces._03_patron_fabrica.MainFabricaImprimibles",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "MainMovibles",
+            "request": "launch",
+            "mainClass": "_03_interfaces._04_basico.main.MainMovibles",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "MainListas",
+            "request": "launch",
+            "mainClass": "_03_interfaces._05_listas.MainListas",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "MainJardinera",
+            "request": "launch",
+            "mainClass": "_03_interfaces._05_listas.ejericio.MainJardinera",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "_01_IntroduccionExcepciones",
+            "request": "launch",
+            "mainClass": "_04_excepciones._01_basico._01_IntroduccionExcepciones",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "_02_CapturarVariasExcepciones",
+            "request": "launch",
+            "mainClass": "_04_excepciones._01_basico._02_CapturarVariasExcepciones",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "_01_ClaseException",
+            "request": "launch",
+            "mainClass": "_04_excepciones._02_herencia._01_ClaseException",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "_02_ClaseException",
+            "request": "launch",
+            "mainClass": "_04_excepciones._02_herencia._02_ClaseException",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "_01_MetodosYExcepciones",
+            "request": "launch",
+            "mainClass": "_04_excepciones._03_metodos._01_MetodosYExcepciones",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "_02_MetodosYExcepciones",
+            "request": "launch",
+            "mainClass": "_04_excepciones._03_metodos._02_MetodosYExcepciones",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "Main01",
+            "request": "launch",
+            "mainClass": "_04_excepciones._04_ejemplos.Main01",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "Main02",
+            "request": "launch",
+            "mainClass": "_04_excepciones._04_ejemplos.Main02",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "Main03",
+            "request": "launch",
+            "mainClass": "_04_excepciones._04_ejemplos.Main03",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "Main04",
+            "request": "launch",
+            "mainClass": "_04_excepciones._04_ejemplos.Main04",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "Main05",
+            "request": "launch",
+            "mainClass": "_04_excepciones._04_ejemplos.Main05",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "Main06",
+            "request": "launch",
+            "mainClass": "_04_excepciones._04_ejemplos.Main06",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "Main07",
+            "request": "launch",
+            "mainClass": "_04_excepciones._04_ejemplos.Main07",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "CuentaBancariaMain",
+            "request": "launch",
+            "mainClass": "_04_excepciones._05_excepcionespersonalizadas.CuentaBancariaMain",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "Enunciados",
+            "request": "launch",
+            "mainClass": "_04_excepciones._06_ejercicios.Enunciados",
+            "projectName": "01_POO"
+        },
+        {
+            "type": "java",
+            "name": "RaceApp",
+            "request": "launch",
+            "mainClass": "project.app.RaceApp",
+            "projectName": "02_1_JavaDocEjercicio"
+        },
+        {
+            "type": "java",
+            "name": "MainJavaDoc",
+            "request": "launch",
+            "mainClass": "basico.MainJavaDoc",
+            "projectName": "02_JavaDoc"
+        },
+        {
+            "type": "java",
+            "name": "MainBrujo",
+            "request": "launch",
+            "mainClass": "entidad.MainBrujo",
+            "projectName": "02_JavaDoc"
+        },
+        {
+            "type": "java",
+            "name": "MainCalculo",
+            "request": "launch",
+            "mainClass": "entidad.MainCalculo",
+            "projectName": "02_JavaDoc"
+        },
+        {
+            "type": "java",
+            "name": "MainPersona",
+            "request": "launch",
+            "mainClass": "entidad.MainPersona",
+            "projectName": "02_JavaDoc"
+        },
+        {
+            "type": "java",
+            "name": "EmulacionCafetera",
+            "request": "launch",
+            "mainClass": "_01_enumavanzado.EmulacionCafetera",
+            "projectName": "02_intermedio"
+        },
+        {
+            "type": "java",
+            "name": "PruebaCafes",
+            "request": "launch",
+            "mainClass": "_01_enumavanzado.PruebaCafes",
+            "projectName": "02_intermedio"
+        },
+        {
+            "type": "java",
+            "name": "appPedido",
+            "request": "launch",
+            "mainClass": "bar.appPedido",
+            "projectName": "03_1_MiniproyectoBar"
+        },
+        {
+            "type": "java",
+            "name": "PruebaGenericos",
+            "request": "launch",
+            "mainClass": "_01_genericos.PruebaGenericos",
+            "projectName": "03_Genericos"
+        },
+        {
+            "type": "java",
+            "name": "PruebaWildcards",
+            "request": "launch",
+            "mainClass": "_02_wildcards.PruebaWildcards",
+            "projectName": "03_Genericos"
+        },
+        {
+            "type": "java",
+            "name": "MainPareja",
+            "request": "launch",
+            "mainClass": "ejercicios.Ejercicio1_clase_generica.MainPareja",
+            "projectName": "03_Genericos"
+        },
+        {
+            "type": "java",
+            "name": "MainUtilidades",
+            "request": "launch",
+            "mainClass": "ejercicios.Ejercicio2_metodo_generico_maximo.MainUtilidades",
+            "projectName": "03_Genericos"
+        },
+        {
+            "type": "java",
+            "name": "MainAlmacen",
+            "request": "launch",
+            "mainClass": "ejercicios.Ejercicio3_clase_generica_bounded.MainAlmacen",
+            "projectName": "03_Genericos"
+        },
+        {
+            "type": "java",
+            "name": "MainWildcards",
+            "request": "launch",
+            "mainClass": "ejercicios.Ejercicio4_wildcards_lectura_escritura.MainWildcards",
+            "projectName": "03_Genericos"
+        },
+        {
+            "type": "java",
+            "name": "_01_DepuracionBasica",
+            "request": "launch",
+            "mainClass": "depuracion._01_DepuracionBasica",
+            "projectName": "04_Depuracion"
+        },
+        {
+            "type": "java",
+            "name": "_02_DepuracionSentenciasControl",
+            "request": "launch",
+            "mainClass": "depuracion._02_DepuracionSentenciasControl",
+            "projectName": "04_Depuracion"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "principal.Main",
+            "projectName": "05_02_Librerias"
+        },
+        {
+            "type": "java",
+            "name": "Main(3)",
+            "request": "launch",
+            "mainClass": "programa.Main",
+            "projectName": "06_JUnit5"
+        },
+        {
+            "type": "java",
+            "name": "MainHolaHilo",
+            "request": "launch",
+            "mainClass": "Diferencia_Start_Run.MainHolaHilo",
+            "projectName": "07_HilosEjercicios"
+        },
+        {
+            "type": "java",
+            "name": "MainCuentaRegresiva",
+            "request": "launch",
+            "mainClass": "Interfaz_Runnable.MainCuentaRegresiva",
+            "projectName": "07_HilosEjercicios"
+        },
+        {
+            "type": "java",
+            "name": "MainTarea_A_B_C",
+            "request": "launch",
+            "mainClass": "Join.Ordenar_con_Join.MainTarea_A_B_C",
+            "projectName": "07_HilosEjercicios"
+        },
+        {
+            "type": "java",
+            "name": "MainTarea_A_B_C(1)",
+            "request": "launch",
+            "mainClass": "Join.Ordenar_sin_Join.MainTarea_A_B_C",
+            "projectName": "07_HilosEjercicios"
+        },
+        {
+            "type": "java",
+            "name": "Main(4)",
+            "request": "launch",
+            "mainClass": "Ping_Pong_Wait_Notify.Main",
+            "projectName": "07_HilosEjercicios"
+        },
+        {
+            "type": "java",
+            "name": "MainTareaPesada",
+            "request": "launch",
+            "mainClass": "Sleep.MainTareaPesada",
+            "projectName": "07_HilosEjercicios"
+        },
+        {
+            "type": "java",
+            "name": "MainIncrementador",
+            "request": "launch",
+            "mainClass": "Synchronized.MainIncrementador",
+            "projectName": "07_HilosEjercicios"
+        },
+        {
+            "type": "java",
+            "name": "MainContadorCompatido",
+            "request": "launch",
+            "mainClass": "Uso_Join.MainContadorCompatido",
+            "projectName": "07_HilosEjercicios"
+        },
+        {
+            "type": "java",
+            "name": "_00_IntroduccionHilos",
+            "request": "launch",
+            "mainClass": "_01_basico._00_IntroduccionHilos",
+            "projectName": "07_Hilos"
+        },
+        {
+            "type": "java",
+            "name": "_01_MainHiloThread",
+            "request": "launch",
+            "mainClass": "_01_basico._01_MainHiloThread",
+            "projectName": "07_Hilos"
+        },
+        {
+            "type": "java",
+            "name": "_02_MainHiloRunnable",
+            "request": "launch",
+            "mainClass": "_01_basico._02_MainHiloRunnable",
+            "projectName": "07_Hilos"
+        },
+        {
+            "type": "java",
+            "name": "_03_MainHiloThis",
+            "request": "launch",
+            "mainClass": "_01_basico._03_MainHiloThis",
+            "projectName": "07_Hilos"
+        },
+        {
+            "type": "java",
+            "name": "PruebaDemonio",
+            "request": "launch",
+            "mainClass": "_02_demonio.PruebaDemonio",
+            "projectName": "07_Hilos"
+        },
+        {
+            "type": "java",
+            "name": "NuevaYork",
+            "request": "launch",
+            "mainClass": "_03_sincronizado_01.NuevaYork",
+            "projectName": "07_Hilos"
+        },
+        {
+            "type": "java",
+            "name": "Construccion",
+            "request": "launch",
+            "mainClass": "_03_sincronizado_02.Construccion",
+            "projectName": "07_Hilos"
+        },
+        {
+            "type": "java",
+            "name": "Carrera",
+            "request": "launch",
+            "mainClass": "_03_sincronizado_03.Carrera",
+            "projectName": "07_Hilos"
+        },
+        {
+            "type": "java",
+            "name": "Main(5)",
+            "request": "launch",
+            "mainClass": "_04_waitnotify.Main",
+            "projectName": "07_Hilos"
+        },
+        {
+            "type": "java",
+            "name": "_01_MainHiloThread(1)",
+            "request": "launch",
+            "mainClass": "_05_join._01_MainHiloThread",
+            "projectName": "07_Hilos"
+        },
+        {
+            "type": "java",
+            "name": "SocketCliente",
+            "request": "launch",
+            "mainClass": "cliente.hilo.Ejercicio1.SocketCliente",
+            "projectName": "08_SocketClient"
+        },
+        {
+            "type": "java",
+            "name": "SocketClienteHilo",
+            "request": "launch",
+            "mainClass": "cliente.hilo.Ejercicio1.SocketClienteHilo",
+            "projectName": "08_SocketClient"
+        },
+        {
+            "type": "java",
+            "name": "SocketClienteRepetitivo",
+            "request": "launch",
+            "mainClass": "cliente.hilo.Ejercicio1.SocketClienteRepetitivo",
+            "projectName": "08_SocketClient"
+        },
+        {
+            "type": "java",
+            "name": "SocketCliente1",
+            "request": "launch",
+            "mainClass": "cliente.hilo.Ejercicio2.SocketCliente1",
+            "projectName": "08_SocketClient"
+        },
+        {
+            "type": "java",
+            "name": "SocketClienteHilo1",
+            "request": "launch",
+            "mainClass": "cliente.hilo.Ejercicio2.SocketClienteHilo1",
+            "projectName": "08_SocketClient"
+        },
+        {
+            "type": "java",
+            "name": "SocketClienteRepetitivo1",
+            "request": "launch",
+            "mainClass": "cliente.hilo.Ejercicio2.SocketClienteRepetitivo1",
+            "projectName": "08_SocketClient"
+        },
+        {
+            "type": "java",
+            "name": "SocketServidor",
+            "request": "launch",
+            "mainClass": "servidor.SocketServidor",
+            "projectName": "08_SocketServer"
+        },
+        {
+            "type": "java",
+            "name": "SocketServidorHilo",
+            "request": "launch",
+            "mainClass": "servidor.hilo.SocketServidorHilo",
+            "projectName": "08_SocketServer"
+        }
+    ]
+}
